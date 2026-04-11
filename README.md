@@ -5,7 +5,6 @@
   <p><em>"For the Love of the Game."</em></p>
 </div>
 
----
 
 <!-- whoami terminal block -->
 ```bash
@@ -19,16 +18,11 @@ $ cat links.txt
 >  Location   : Arlington, TX
 ```
 
----
 
 <!-- Spotify Now Playing -->
 ## now playing
 
-[![Spotify](https://my-now-playing.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff)](https://novatorem-lpv62h3rc-peter-phi-trans-projects.vercel.app)
-
-> **Setup note:** Replace the Spotify widget URL above with your own by deploying [novatorem](https://github.com/novatorem/novatorem) — it takes ~5 mins and connects to your Spotify account.
-
----
+<img src="https://novatorem-peter-phi-trans-projects.vercel.app/api/orchestrator" alt="Spotify">
 
 <!-- Tech Stack -->
 ## tech stack
