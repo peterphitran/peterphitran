@@ -1,16 +1,7 @@
 <div align="center">
   <img src="./banner.svg" width="100%" alt="Peter Tran banner"/>
 </div>
-
-<div align="center">
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7ab8f5&center=true&vCenter=true&random=false&width=500&lines=Always+learning+and+building+for+Impact.;For+the+love+of+the+game.;Life+maxxing." alt="Typing SVG" />
-  </a>
-
-</div>
-
----
+<br/>
 
 ## whoami
 
