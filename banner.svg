@@ -270,10 +270,4 @@
     fill="#deeefa" letter-spacing="3">
     Peter Tran
   </text>
-
-  <!-- subtitle -->
-  <text x="400" y="104" text-anchor="middle"
-    font-family="monospace" font-size="11" fill="#6a9fc0"
-    letter-spacing="4" opacity="0.85">
-  </text>
 </svg>
