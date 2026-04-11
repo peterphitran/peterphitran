@@ -22,7 +22,7 @@ $ cat links.txt
 <!-- Spotify Now Playing -->
 ## now playing
 
-<img src="https://novatorem-peter-phi-trans-projects.vercel.app/api/orchestrator" alt="Spotify">
+<img src="https://novatorem-peter-phi-trans-projects.vercel.app/api/orchestrator?background_color=auto" alt="Spotify">
 
 <!-- Tech Stack -->
 ## tech stack
