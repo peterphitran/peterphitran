@@ -1,6 +1,5 @@
 <div align="center">
   <img src="./banner.svg" width="100%" alt="Peter Tran banner"/>
-  <img src="https://novatorem-peter-phi-trans-projects.vercel.app/api/orchestrator?background_color=auto" alt="Spotify">
 </div>
 <br/>
 
@@ -18,6 +17,9 @@ $ cat links.txt
 > Portfolio  : https://peterphitran.github.io/
 
 ```
+
+## tunes
+<img src="https://novatorem-peter-phi-trans-projects.vercel.app/api/orchestrator?background_color=auto" alt="Spotify">
 
 ## tech stack
 
