@@ -15,7 +15,6 @@ $ whoami
 
 $ cat links.txt
 >  Portfolio  : https://peterphitran.github.io/
->  Location   : Arlington, TX
 ```
 
 
