@@ -3,7 +3,8 @@
 </div>
 <br/>
 
-## whoami
+
+## me
 
 ```bash
 $ whoami
