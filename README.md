@@ -1,29 +1,42 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZudW50ZzY1Z3ZsMTRpcms3MTBtMXV1OTBoeWdrdWJkbHIzcWhmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CqxtAEdguUgC2I/giphy.gif" width="200px" />
-  <h1>hey, I'm Peter 👋</h1>
-  <p><em>"For the Love of the Game."</em></p>
+  <img src="./banner.svg" width="100%" alt="Peter Tran banner"/>
 </div>
 
+<div align="center">
 
-<!-- whoami terminal block -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7ab8f5&center=true&vCenter=true&random=false&width=500&lines=Always+learning+and+building+for+Impact.;Enthusiast+in+side+questing.;Life+maxxing." alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  &nbsp;
+  <img src="https://img.shields.io/badge/CS-UT%20Arlington-7ab8f5?style=flat-square&labelColor=0a1628"/>
+
+</div>
+
+<br/>
+
+---
+
+## whoami
+
 ```bash
 $ whoami
 > Peter Tran
 > Junior @ UT Arlington — Computer Science
-> Enthusiast in side questing and life maxxing
+> SDE Intern @ Beautisol
+> Incoming SWE Intern @ JPMC Summer 2026
 
 $ cat links.txt
->  Portfolio  : https://peterphitran.github.io/
+> Portfolio  : https://peterphitran.github.io/
+
 ```
 
-
-<!-- Spotify Now Playing -->
-## now playing
-
+## tunes
 <img src="https://novatorem-peter-phi-trans-projects.vercel.app/api/orchestrator?background_color=auto" alt="Spotify">
+---
 
-<!-- Tech Stack -->
 ## tech stack
 
 **Languages**
@@ -45,5 +58,5 @@ $ cat links.txt
 ---
 
 <div align="center">
-  <sub> always learning · always building · check out my <a href="https://peterphitran.github.io/">website</a></sub>
+  <sub> always learning · always building · <a href="https://peterphitran.github.io/">peterphitran.github.io</a></sub>
 </div>
