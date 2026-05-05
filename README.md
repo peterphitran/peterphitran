@@ -30,7 +30,7 @@ $ cat links.txt
 
 **Frameworks & Libraries**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,spring,fastapi,express,tensorflow,tailwind,nodejs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,spring,fastapi,express,tensorflow,tailwind,nodejs,astro,dotnet,flask,opencv,sklearn&perline=10)](https://skillicons.dev)
 
 **Databases**
 
@@ -38,7 +38,7 @@ $ cat links.txt
 
 **Tools & Cloud**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,git,linux,vscode,idea,arduino&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,git,linux,vscode,idea,arduino,anaconda,bun,githubactions,kafka,supabase&perline=10)](https://skillicons.dev)
 
 ---
 
