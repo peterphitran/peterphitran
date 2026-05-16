@@ -10,8 +10,7 @@
 ```bash
 $ whoami
 > Peter Tran
-> Junior @ UT Arlington — Computer Science
-> SDE Intern @ Beautisol
+> Senior @ UT Arlington — Computer Science
 > Incoming SWE Intern @ JPMC Summer 2026
 
 $ cat links.txt
