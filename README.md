@@ -10,23 +10,12 @@
 ```bash
 $ whoami
 > Peter Tran
-> Senior @ UT Arlington — Computer Science
-> Incoming SWE Intern @ JPMC Summer 2026
+> Senior @ UT Arlington — Computer Science & Minor in Mathematics
+> SWE Intern @ JPMC Summer 2026
+> Undergraduate ML Research @ DIAL Labs
 
 $ cat links.txt
 > Portfolio  : https://peterphitran.github.io/
-
-$ project todolist
-> CROHME2019toLaTeX
-> Kurrjin
-> Wadam
-> Salus
-> Guardian
-> Excelsior
-> MachMode
-> L5
-> Asclepius
-> cppjourney
 
 ```
 
