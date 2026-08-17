@@ -11,8 +11,8 @@
 $ whoami
 > Peter Tran
 > Senior @ UT Arlington — Computer Science & Minor in Mathematics
-> SWE Intern @ JPMC Summer 2026
 > Undergraduate ML Research @ DIAL Labs
+> Prev JPMC, Aereos
 
 $ cat links.txt
 > Portfolio  : https://peterphitran.github.io/
