@@ -12,6 +12,7 @@ $ whoami
 > Peter Tran
 > Senior @ UT Arlington — Computer Science & Minor in Mathematics
 > Undergraduate ML Research @ DIAL Labs
+> Currently looking for Co-Op opportunities!
 > Prev JPMC, Aereos
 
 $ cat links.txt
