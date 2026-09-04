@@ -11,10 +11,6 @@ $ whoami
 > Undergraduate ML Research @ DIAL Labs
 > Currently looking for Co-Op opportunities!
 > Prev JPMC, Aereos
-
-$ cat links.txt
-> Portfolio  : https://peterphitran.github.io/
-
 ```
 
 ## tunes
